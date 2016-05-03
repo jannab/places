@@ -1,1 +1,24 @@
+.title {
+	text-align: center;
+}
 
+.row {
+	display: flex;
+}
+
+.col-80p {
+	margin: 5px;
+	width: 60%
+}
+
+.col-20p {
+	width: 40%
+}
+
+.image {
+	width: 100%;
+}
+
+.bold {
+	font-weight: bold;
+}
