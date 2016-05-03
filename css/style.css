@@ -6,12 +6,12 @@
 	display: flex;
 }
 
-.col-80p {
+.col-60p {
 	margin: 5px;
 	width: 60%
 }
 
-.col-20p {
+.col-40p {
 	width: 40%
 }
 
